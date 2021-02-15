@@ -1,0 +1,6 @@
+Elaborar un programa que haga una matriz con 7 números, las columnas
+deben de ser del mismo numero. Despues se debe de hacer una segunda matriz
+la cual debe de cambiar las columnas por las filas. (Ahora las filas seran 
+del mismo número). 
+
+No se debe de hacer desde cero una nueva matriz, se debe de voltear la primera matriz.
