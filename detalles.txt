@@ -4,3 +4,8 @@ la cual debe de cambiar las columnas por las filas. (Ahora las filas seran
 del mismo número). 
 
 No se debe de hacer desde cero una nueva matriz, se debe de voltear la primera matriz.
+
+Notas
+Para poder hacer el cambio de posicion de los elementos(en este caso números) en el 
+primer arreglo se usa 'i' y 'j', mientras que en la segunda vamos a invertir dicha posicion
+a 'j' y 'i' para poder hacer el cambio.
